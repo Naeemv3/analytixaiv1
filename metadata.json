@@ -1,0 +1,10 @@
+{
+  "name": "Remix: AnalytixAI",
+  "description": "Enterprise-grade AI-powered business analytics \u0026 autonomous dashboards from any CSV or XLS dataset.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
