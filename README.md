@@ -173,6 +173,16 @@ Interactive Dashboard
 - A Firebase project with Authentication enabled
 - An GeminiAI API key
 
+# Supabase Configuration
+VITE_SUPABASE_URL=your_supabase_project_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+
+# Google Gemini API
+VITE_GEMINI_API_KEY=your_gemini_api_key
+
+# Murf AI API
+VITE_MURF_API_KEY=your_murf_api_key
+
 ## Clone Repository
 
 ```bash
