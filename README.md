@@ -287,20 +287,10 @@ to help businesses move from **data visualization** to **decision intelligence**
 
 # 👥 Team
 
-**Team Name:** _Replace with your actual team name_
+**Team Name:** _PN SQUARE_
 
-**Hackathon:** _Replace with the actual hackathon name_
+**Hackathon:** _Takeover Hackathon_
 
-**Members:** _List team members and roles here_
+**Members:** _Sanaga Nithya, Naga Sai Purujith Kondur, Naeem Ahmad_
 
----
 
-# 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-*(Add a `LICENSE` file to your repo root with the standard MIT license text — GitHub can generate this for you automatically when creating a new repo, or via **Add file → Create new file → LICENSE** and selecting the MIT template.)*
-
----
-
-⭐ If you like this project, consider giving it a star!
