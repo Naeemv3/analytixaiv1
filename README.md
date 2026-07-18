@@ -83,10 +83,7 @@ AI (OpenAI) is used strictly to **narrate** these pre-calculated results in plai
 - Forecasting
 - AI Assistant
 - AI Insights
-- Root Cause Analysis
-
-### 🚧 In Progress / Planned
-
+- Root Cause Analysis.
 - Scenario Simulator
 - Trend Detection
 - Decision Engine
@@ -101,8 +98,6 @@ AI (OpenAI) is used strictly to **narrate** these pre-calculated results in plai
 - Market Intelligence
 - Invoice Intelligence
 - Report Generator
-
-*(Adjust these two lists to match your actual repo state before submitting — this is a placeholder split based on what's been confirmed built vs. discussed as future work.)*
 
 ---
 
@@ -124,7 +119,7 @@ Anomaly Detection
 Root Cause Analysis
         │
         ▼
-OpenAI (narrative layer only)
+GeminiAI (narrative layer only)
         │
         ▼
 Executive Summary
@@ -134,36 +129,6 @@ Business Copilot
         ▼
 Interactive Dashboard
 ```
-
----
-
-# 📸 Project Screenshots
-
-## Dashboard
-
-`docs/screenshots/dashboard.png`
-
-*(Replace with an actual screenshot before submitting — add the image to your repo and update this path.)*
-
----
-
-## AI Copilot
-
-`docs/screenshots/ai-copilot.png`
-
----
-
-## AI Lab
-
-`docs/screenshots/ai-lab.png`
-
----
-
-## Data Validator
-
-`docs/screenshots/data-validator.png`
-
----
 
 # 🛠 Tech Stack
 
@@ -185,11 +150,7 @@ Interactive Dashboard
 
 ### AI
 
-- OpenAI API
-
-### Automation
-
-- n8n
+- Gemini API
 
 ### Charts
 
@@ -210,8 +171,7 @@ Interactive Dashboard
 - npm 9+ (or yarn/pnpm equivalent)
 - A Supabase project
 - A Firebase project with Authentication enabled
-- An OpenAI API key
-- *(Optional, for automated alerts)* An n8n instance, plus Twilio and SMTP/Resend credentials
+- An GeminiAI API key
 
 ## Clone Repository
 
