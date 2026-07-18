@@ -289,7 +289,7 @@ to help businesses move from **data visualization** to **decision intelligence**
 
 **Team Name:** _PN SQUARE_
 
-**Hackathon:** _Takeover Hackathon_
+**Hackathon:** _NIAT Takeover Hackathon_
 
 **Members:** _Sanaga Nithya, Naga Sai Purujith Kondur, Naeem Ahmad_
 
